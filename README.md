@@ -4,8 +4,8 @@ XenonOS Privative Source Project
 This project is based on [**Android Open Source Project**](https://android.googlesource.com) & [**AOSPExtended**](https://github.com/AOSPExtended).
 
 ##Credits
-* [**Android Open Source Project**](https://android.googlesource.com)
-* [**AOSPExtended (Based ROM)**](https://github.com/AOSPExtended)
+* [**Android Open Source Project (Based ROM)**](https://android.googlesource.com)
+* [**AOSPExtended**](https://github.com/AOSPExtended)
 
 ##How to Build?
 
