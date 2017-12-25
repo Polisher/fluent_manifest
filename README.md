@@ -1,4 +1,4 @@
-XenonOS Privative Source Project
+FluentOS Privative Source Project
 ===========
 
 This project is based on [**Android Open Source Project**](https://android.googlesource.com) & [**AOSPExtended**](https://github.com/AOSPExtended).
@@ -6,6 +6,7 @@ This project is based on [**Android Open Source Project**](https://android.googl
 ##Credits
 * [**Android Open Source Project (Based ROM)**](https://android.googlesource.com)
 * [**AOSPExtended**](https://github.com/AOSPExtended)
+* [**MaruOS**](https://github.com/maruos)
 
 ##How to Build?
 
@@ -23,6 +24,6 @@ Build to your Device:
 
         launch aosp_(codename)-userdebug
 
-        mka xos
+        mka fluent
 
         
