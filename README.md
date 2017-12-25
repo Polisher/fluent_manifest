@@ -6,7 +6,7 @@ This project is based on [**Android Open Source Project**](https://android.googl
 ##Credits
 * [**Android Open Source Project (Based ROM)**](https://android.googlesource.com)
 * [**AOSPExtended**](https://github.com/AOSPExtended)
-* [**MaruOS**](https://github.com/maruos)
+* [**MaruOS (Mechanics)**](https://github.com/maruos)
 
 ##How to Build?
 
