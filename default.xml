@@ -17,6 +17,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="external/autotest" name="fluent_external_autotest" groups="pdk-fs" remote="fluent" />
+  <project path="frameworks/compile/slang" name="fluent_frameworks_compile_slang" remote="fluent" />
   <project path="vendor/fluent" name="fluent_vendor" remote="fluent" />
 
 
@@ -321,7 +322,6 @@
   <project path="frameworks/base" name="platform/frameworks/base" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" />
-  <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" />
   <project path="frameworks/ex" name="platform/frameworks/ex" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk-cw-fs,pdk-fs" />
