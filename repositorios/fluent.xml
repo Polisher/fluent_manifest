@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- FluentOS Repositories -->
+
+<manifest>
+
+  <project path="build" name="fluent_build" groups="pdk" remote="fluent" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+  <project path="external/autotest" name="fluent_external_autotest" groups="pdk-fs" remote="fluent" />
+  <project path="frameworks/compile/slang" name="fluent_frameworks_compile_slang" remote="fluent" />
+  <project path="vendor/fluent" name="fluent_vendor" remote="fluent" />
+  
+</manifest>
