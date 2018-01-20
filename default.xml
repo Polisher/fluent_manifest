@@ -5,6 +5,10 @@
            fetch="https://android.googlesource.com/"
            review=".." />
 
+  <remote  name="rro"
+           fetch="https://github.com/AOSP-RRO"
+           revision="nougat"/>
+
   <remote  name="fluent"
            fetch="https://gitlab.com/FluentOS"
            revision="fluent-1.0"/>
@@ -13,19 +17,10 @@
            remote="aosp"
            sync-j="4" />
            
-  <!-- Repositorios Android Open Source Project-->
-  <include name="repositorios/aosp.xml" />
+  <!-- Repositorios Android Open Source Project RRO + OMS -->
+  <include name="repositorios/aosp-rro.xml" />
 
   <!-- Repositorios FluentOS -->
   <include name="repositorios/fluent.xml" /> 
-
-  <!-- Repositorios Qualcomm HAL-->    
-  <include name="repositorios/hals.xml"/>
-
-  <!-- Repositorios AOSP-JF -->      
-  <include name="repositorios/aosp-jf.xml"/>
-
-  <!-- Repositorios GNU Toolchain Linux-->
-  <include name="repositorios/linux.xml"/>
 
 </manifest>

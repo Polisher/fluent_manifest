@@ -3,12 +3,11 @@ FluentOS Privative Source Project
 
 ![fluent_logo](fluent_logo.png)
 
-This project is based on [**Android Open Source Project**](https://android.googlesource.com), [**AOSPExtended**](https://github.com/AOSPExtended), [**AOSP-JF-MM**](https://github.com/AOSP-JF-MM) and the Ideas of [**MaruOS**](https://github.com/maruos).
+This project is based on [**Android Open Source Project**](https://android.googlesource.com), [**AOSP-RRO**](https://github.com/AOSP-RRO), and [**MaruOS**](https://github.com/maruos) has inspired us to make this project.
 
 ##Credits
 * [**Android Open Source Project (Based ROM)**](https://android.googlesource.com)
-* [**AOSPExtended (Modifications to build the System)**](https://github.com/AOSPExtended)
-* [**AOSP-JF-MM**](https://github.com/AOSP-JF-MM)
+* [**AOSP-RRO + OMS (Modifications to build the System)**](https://github.com/AOSP-RRO)
 * [**MaruOS (Inspired)**](https://github.com/maruos)
 
 ##How to Build?
