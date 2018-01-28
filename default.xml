@@ -10,7 +10,7 @@
            revision="fluent-1.0"/>
 
   <remote  name="github"
-           fetch="https://github.com/">
+           fetch="https://github.com/"/>
 
   <default revision="refs/tags/android-7.1.2_r36"
            remote="aosp"
