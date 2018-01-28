@@ -5,23 +5,16 @@
            fetch="https://android.googlesource.com/"
            review=".." />
 
-  <remote  name="rro"
-           fetch="https://github.com/AOSP-RRO"
-           revision="nougat"/>
-
   <remote  name="fluent"
            fetch="https://gitlab.com/FluentOS"
            revision="fluent-1.0"/>
 
-  <remote  name="github"
-           fetch="https://github.com/"/>
-
-  <default revision="refs/tags/android-7.1.2_r29"
+  <default revision="refs/tags/android-7.1.2_r36"
            remote="aosp"
            sync-j="4" />
            
-  <!-- Repositorios Android Open Source Project RRO + OMS -->
-  <include name="repositorios/aosp-rro.xml" />
+  <!-- Repositorios Android Open Source Project -->
+  <include name="repositorios/aosp.xml" />
 
   <!-- Repositorios FluentOS -->
   <include name="repositorios/fluent.xml" /> 
