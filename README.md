@@ -14,7 +14,7 @@ This project is based on [**Android Open Source Project**](https://android.googl
 
 To initialize your local repository using the AospExtended trees, use a command like this:
 
-        repo init -u git://gitlab.com/FluentOS/fluent_manifest.git -b fluent-1.0
+        repo init -u git://github.com/FluentOS/fluent_manifest.git -b fluent-1.0
 
 Sync up the Repo:
 
@@ -24,7 +24,7 @@ Build to your Device:
 
         . build/envsetup.sh 
 
-        launch fluent_(codename)-userdebug
+        lunch fluent_(codename)-userdebug
 
         mka fluent
 
