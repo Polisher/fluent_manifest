@@ -487,7 +487,6 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" />
-  <project path="system/bt" name="platform/system/bt" groups="pdk" />
   <project path="system/ca-certificates" name="platform/system/ca-certificates" groups="pdk" />
   <project path="system/connectivity/apmanager" name="platform/system/connectivity/apmanager" />
   <project path="system/connectivity/dhcp_client" name="platform/system/connectivity/dhcp_client" />
@@ -564,6 +563,7 @@
   <project path="hardware/qcom/wlan-caf" name="LineageOS/android_hardware_qcom_wlan" groups="qcom_wlan" revision="cm-14.0-caf" remote="github" />
   <project path="hardware/ril" name="LineageOS/android_hardware_ril" groups="pdk" revision="cm-14.0" remote="github" />
   <project path="hardware/ril-caf" name="LineageOS/android_hardware_ril" groups="pdk" revision="cm-14.0-caf" remote="github" />
+  <project path="system/bt" name="LineageOS/android_system_bt" groups="pdk" remote="github" revision="cm-14.1" />
   <project path="vendor/qcom/opensource/dataservices" name="LineageOS/android_vendor_qcom_opensource_dataservices" revision="cm-14.0" remote="github" />
   <project path="vendor/qcom/opensource/dpm" name="LineageOS/android_vendor_qcom_opensource_dpm" revision="cm-14.0" remote="github" />
   <project path="vendor/qcom/opensource/time-services" name="LineageOS/android_vendor_qcom_opensource_time-services" revision="cm-14.0" remote="github" />
