@@ -9,6 +9,7 @@
   </project>
   <project path="device/qcom/sepolicy" name="fluent_device_qcom_sepolicy" remote="fluent" />
   <project path="packages/apps/Launcher3" name="fluent_packages_apps_Launcher3" remote="fluent" revision="fluent-universal"/>
+  <project path="system/sepolicy" name="fluent_system_sepolicy" remote="fluent" groups="pdk" />
   <project path="vendor/fluent" name="fluent_vendor" remote="fluent" />
   
 </manifest>
