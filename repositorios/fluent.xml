@@ -11,6 +11,7 @@
   <project path="frameworks/base" name="fluent_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="fluent" />
   <project path="packages/apps/Bluetooth" name="fluent_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="fluent" />
   <project path="packages/apps/Launcher3" name="fluent_packages_apps_Launcher3" remote="fluent" revision="fluent-universal"/>
+  <project path="system/netd" name="fluent_system_netd" groups="pdk" remote="fluent" />
   <project path="system/sepolicy" name="fluent_system_sepolicy" remote="fluent" groups="pdk" />
   <project path="vendor/fluent" name="fluent_vendor" remote="fluent" />
   
