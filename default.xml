@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com/"
            review=".." />
 
-  <remote  name="fluent"
+  <remote  name="fluent-sandbox"
            fetch="https://github.com/FluentOS-DevLab"
            revision="fluent-1.0"/>
 
