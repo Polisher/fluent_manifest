@@ -6,7 +6,7 @@
            review=".." />
 
   <remote  name="fluent"
-           fetch="https://github.com/FluentOS"
+           fetch="https://github.com/FluentOS-DevLab"
            revision="fluent-1.0"/>
 
   <remote  name="github"
