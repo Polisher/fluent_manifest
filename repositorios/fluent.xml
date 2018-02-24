@@ -4,15 +4,15 @@
 
 <manifest>
 
-  <project path="build" name="fluent_build" groups="pdk" remote="fluent" >
+  <project path="build" name="fluent_build" groups="pdk" remote="fluent-sandbox" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="device/qcom/sepolicy" name="fluent_device_qcom_sepolicy" remote="fluent" />
-  <project path="frameworks/base" name="fluent_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="fluent" />
-  <project path="packages/apps/Bluetooth" name="fluent_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="fluent" />
-  <project path="packages/apps/Launcher3" name="fluent_packages_apps_Launcher3" remote="fluent" revision="fluent-universal"/>
-  <project path="system/netd" name="fluent_system_netd" groups="pdk" remote="fluent" />
-  <project path="system/sepolicy" name="fluent_system_sepolicy" remote="fluent" groups="pdk" />
-  <project path="vendor/fluent" name="fluent_vendor" remote="fluent" />
+  <project path="device/qcom/sepolicy" name="fluent_device_qcom_sepolicy" remote="fluent-sandbox" />
+  <project path="frameworks/base" name="fluent_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="fluent-sandbox" />
+  <project path="packages/apps/Bluetooth" name="fluent_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="fluent-sandbox" />
+  <project path="packages/apps/Launcher3" name="fluent_packages_apps_Launcher3" remote="fluent-sandbox" revision="fluent-universal"/>
+  <project path="system/netd" name="fluent_system_netd" groups="pdk" remote="fluent-sandbox" />
+  <project path="system/sepolicy" name="fluent_system_sepolicy" remote="fluent-sandbox" groups="pdk" />
+  <project path="vendor/fluent" name="fluent_vendor" remote="fluent-sandbox" />
   
 </manifest>
