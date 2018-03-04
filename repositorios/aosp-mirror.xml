@@ -3,5 +3,5 @@
 <!-- AOSP-Mirror Repositories -->
 
 <manifest>
-<project name="platform_frameworks_base" path="frameworks/base" remote="aosp-mirror" />
+<project name="platform_frameworks_base" path="frameworks/base" remote="aosp-mirror" revision="nougat-mr2.3-release />
 </manifest>
