@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- AOSP-Mirror Repositories -->
+
+<manifest>
+<project name="platform_frameworks_base" path="frameworks/base" remote="aosp-mirror" revision="nougat-release" />
+</manifest>
