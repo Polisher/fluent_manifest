@@ -22,6 +22,9 @@
            
   <!-- Repositorios Android Open Source Project -->
   <include name="repositorios/aosp.xml" />
+  
+  <!-- Repositorios AOSP-Mirror -->
+  <include name="repositorios/aosp-mirror.xml" />
 
   <!-- Repositorios FluentOS -->
   <include name="repositorios/fluent.xml" /> 
