@@ -9,6 +9,7 @@
   </project>
   <project path="device/qcom/sepolicy" name="fluent_device_qcom_sepolicy" remote="fluent-sandbox" />
   <project path="frameworks/base" name="platform_frameworks_base" remote="fluent-sandbox" />
+  <project path="hardware/libhardware" name="fluent_hardware_libhardware" remote="fluent-sandbox" />
   <project path="packages/apps/Bluetooth" name="fluent_packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="fluent-sandbox" />
   <project path="packages/apps/Launcher3" name="fluent_packages_apps_Launcher3" remote="fluent-sandbox" revision="fluent-universal"/>
   <project path="system/netd" name="fluent_system_netd" groups="pdk" remote="fluent-sandbox" />
