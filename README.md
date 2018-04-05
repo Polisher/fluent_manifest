@@ -7,6 +7,7 @@ This project is based on [**Android Open Source Project**](https://android.googl
 
 ##Credits
 * [**Android Open Source Project (Based ROM)**](https://android.googlesource.com)
+* [**AOSPExtended (Dual Base ROM)**](https://github.com/AOSPExtended)
 * [**AOSP-RRO + OMS (Modifications to build the System)**](https://github.com/AOSP-RRO)
 * [**MaruOS (Inspired)**](https://github.com/maruos)
 
