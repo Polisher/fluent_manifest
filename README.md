@@ -7,15 +7,14 @@ This project is based on [**Android Open Source Project**](https://android.googl
 
 ##Credits
 * [**Android Open Source Project (Based ROM)**](https://android.googlesource.com)
-* [**AOSPExtended (Dual Base ROM)**](https://github.com/AOSPExtended)
-* [**AOSP-RRO + OMS (Modifications to build the System)**](https://github.com/AOSP-RRO)
+* [**AOSPA / Paranoid Android (Dual Base ROM)**](https://github.com/AOSPA)
 * [**MaruOS (Inspired)**](https://github.com/maruos)
 
 ##How to Build?
 
 To initialize your local repository using the AospExtended trees, use a command like this:
 
-        repo init -u git://github.com/FluentOS/fluent_manifest.git -b fluent-1.0
+        repo init -u git://github.com/FluentOS-DevLab/fluent_manifest.git -b fluent-1.0
 
 Sync up the Repo:
 
