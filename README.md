@@ -3,7 +3,7 @@ FluentOS Privative Source Project
 
 ![fluent_logo](fluent_logo.png)
 
-This project is based on [**Android Open Source Project**](https://android.googlesource.com), [**AOSP-RRO**](https://github.com/AOSP-RRO), and [**MaruOS**](https://github.com/maruos) has inspired us to make this project.
+This project is based on [**Android Open Source Project**](https://android.googlesource.com), [**AOSPA / Paranoid Android**](https://github.com/AOSPA), and [**MaruOS**](https://github.com/maruos) has inspired us to make this project.
 
 ##Credits
 * [**Android Open Source Project (Based ROM)**](https://android.googlesource.com)
