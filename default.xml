@@ -551,6 +551,6 @@
   <project name="toolchain/binutils"/>
 
   <!-- Paranoid Android additions -->
-  <include name="manifests/aospa.xml"/>
+  <include name="repositorios/aospa.xml"/>
 
 </manifest>
