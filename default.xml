@@ -13,6 +13,10 @@
            review="gerrit.aospa.co"
            revision="nougat-mr2"/>
 
+  <remote  name="fluent-beta"
+           fetch="https://github.com/FluentOS-DevLab"
+           revision="fluent-1.0"/>
+
   <remote  name="caf"
            fetch="git://codeaurora.org/quic/la"
            review="codeaurora.org"/>

@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!-- Manifest -->
-  <project path="manifest" name="AOSPA/manifest" remote="aospa" groups="aospa" />
-
   <!-- Build repositories -->
   <remove-project name="platform/build" />
   <project path="build" name="AOSPA/android_build" remote="aospa" groups="aospa" >
