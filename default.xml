@@ -556,5 +556,8 @@
 
   <!-- Paranoid Android additions -->
   <include name="repositorios/aospa.xml"/>
+  
+  <!-- FluentOS Additions -->
+  <include name="repositorios/fluent.xml"/>
 
 </manifest>
