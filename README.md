@@ -3,11 +3,15 @@ FluentOS Privative Source Project
 
 ![fluent_logo](fluent_logo.png)
 
-This project is based on [**Android Open Source Project**](https://android.googlesource.com), [**AOSPA / Paranoid Android**](https://github.com/AOSPA), and [**MaruOS**](https://github.com/maruos) has inspired us to make this project.
+[![Build Status][travis-badge]][travis-url]
+
+_**This information has unused for now**
+_**This project is unestable for now - Wait for the last changes later... **
+This project is based on [**Android Open Source Project**](https://android.googlesource.com), [**SlimROM**](https://github.com/SlimRoms), and [**MaruOS**](https://github.com/maruos) has inspired us to make this project.
 
 ##Credits
 * [**Android Open Source Project (Based ROM)**](https://android.googlesource.com)
-* [**AOSPA / Paranoid Android (Dual Base ROM)**](https://github.com/AOSPA)
+* [**SlimROMs (Dual Base ROM)**](https://github.com/SlimRoms)
 * [**MaruOS (Inspired)**](https://github.com/maruos)
 
 ##How to Build?
