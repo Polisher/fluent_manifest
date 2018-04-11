@@ -7,6 +7,10 @@
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
+  
+  <remote  name="fluent-beta"
+           fetch="https://github.com/FluentOS-DevLab/"
+           revision="fluent-1.0" />
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
