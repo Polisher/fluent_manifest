@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Manifest -->
-  <remove-project name="platform/build" />
   <project path="build" name="fluent_build" remote="fluent-beta" groups="fluent-sandbox" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
