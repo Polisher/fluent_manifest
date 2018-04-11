@@ -77,7 +77,6 @@
   <project path="packages/apps/Nfc" name="SlimRoms/packages_apps_Nfc" />
   <project path="packages/apps/PackageInstaller" name="SlimRoms/packages_apps_PackageInstaller" />
   <project path="packages/apps/PhoneCommon" name="SlimRoms/packages_apps_PhoneCommon" />
-  <project path="packages/apps/Settings" name="SlimRoms/packages_apps_Settings" />
   <project path="packages/apps/Snap" name="SlimRoms/packages_apps_Snap" />
   <project path="packages/apps/SnapdragonGallery" name="SlimRoms/packages_apps_SnapdragonGallery" />
   <project path="packages/apps/Stk" name="SlimRoms/packages_apps_Stk" />
@@ -157,8 +156,6 @@
   <project path="frameworks/opt/cards" name="SlimRoms/frameworks_opt_cards" />
   <project path="packages/apps/SlimLauncher" name="SlimRoms/packages_apps_SlimLauncher" />
   <project path="packages/apps/SlimWallpapers" name="SlimRoms/packages_apps_SlimWallpapers" />
-  <project path="platform_manifest" name="SlimRoms/platform_manifest" />
-  <project path="frameworks/slim" name="SlimRoms/frameworks_slim" />
   <project path="packages/apps/SamsungServiceMode" name="SlimRoms/packages_apps_SamsungServiceMode" />
 
 </manifest>
