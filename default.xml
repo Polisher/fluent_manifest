@@ -424,6 +424,8 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" remote="aosp" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
 
+  <!-- Includes -->
  <include name="repositorios/slim.xml" />
+ <include name="repositorios/fluent.xml" />
 
 </manifest>
