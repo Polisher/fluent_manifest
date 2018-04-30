@@ -16,7 +16,7 @@ This project is based on [**Android Open Source Project**](https://android.googl
 
 ##How to Build?
 
-To initialize your local repository using the AospExtended trees, use a command like this:
+To initialize your local repository using the FluentOS Android trees, use a command like this:
 
         repo init -u git://github.com/FluentOS-DevLab/fluent_manifest.git -b fluent-1.0
 
