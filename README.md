@@ -5,7 +5,7 @@ FluentOS Privative Source Project
 
 **This information has unused for now**
 
-**This project is unestable for now - Wait for the last changes later... **
+**This project is unestable for now - Wait for the last changes later...**
 
 This project is based on [**Android Open Source Project**](https://android.googlesource.com), [**SlimROM**](https://github.com/SlimRoms), and [**MaruOS**](https://github.com/maruos) has inspired us to make this project.
 
