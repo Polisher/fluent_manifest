@@ -4,8 +4,6 @@
   <project path="build" name="fluent_build" remote="fluent-beta" groups="fluent-sandbox" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="frameworks/base" name="fluent_frameworks_base" remote="fluent-beta" groups="fluent-sandbox" />
   <project path="fluent" name="fluent_manifest" remote="fluent-beta" groups="fluent-sandbox" />
-  <project path="packages/apps/Settings" name="fluent_packages_apps_Settings" remote="fluent-beta" groups="fluent-sandbox" />
   <project path="vendor/fluent" name="fluent_vendor" remote="fluent-beta" groups="fluent-sandbox" />
 </manifest>
