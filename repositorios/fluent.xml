@@ -7,4 +7,5 @@
   <project path="fluent" name="fluent_manifest" remote="fluent-beta" groups="fluent-sandbox" />
   <project path="vendor/fluent" name="fluent_vendor" remote="fluent-beta" groups="fluent-sandbox" />
   <project path="packages/apps/Settings" name="fluent_packages_apps_Settings" remote="fluent-beta" groups="fluent-sandbox" />
+  <project path="hardware/libhardware_legacy" name="fluent_hardware_libhardware_legacy" groups="fluent-sandbox" remote="fluent-beta" />
 </manifest>
