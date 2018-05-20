@@ -11,4 +11,5 @@
   <project path="hardware/libhardware_legacy" name="fluent_hardware_libhardware_legacy" groups="fluent-sandbox" remote="fluent-beta" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-5.5.0" name="fluent_prebuilts_aarch64-linux-gnu-5.5.0" groups="fluent-sandbox" remote="fluent-beta" revision="fluent-universal" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-gnueabi-4.9.4" name="fluent_prebuilts_arm-linux-gnueabi-4.9.4" groups="fluent-sandbox" remote="fluent-beta" revision="fluent-universal" />
+  <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-gnu-7.2.1" name="fluent_prebuilts_aarch64-linux-gnu-7.2.1" groups="fluent-sandbox" remote="fluent-beta" revision="fluent-universal" />
 </manifest>
